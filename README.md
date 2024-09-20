@@ -1,4 +1,6 @@
-# packages_for_gl_ax1800
+# This repository is deprecated   
+
+## packages_for_gl_ax1800
 适用于lean openwrt ipq6000库的插件      
 主体采用lean的19.07分支库,缝合sdf8057的库   
 ## use
